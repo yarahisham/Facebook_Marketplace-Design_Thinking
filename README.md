@@ -3,7 +3,7 @@ You have been hired on the product team of Facebook. Recently, the application h
 
 ## Description
 - The Document includes:
-  - Empthize.
+  - Empathize.
   - Define.
   - Ideation.
   - Prototype.
