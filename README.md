@@ -19,5 +19,5 @@ You have been hired on the product team of Facebook. Recently, the application h
 </p>
 
 <p align="center">
-<img src="https://github.com/yarahisham/Facebook_Marketplace-Design_Thinking/blob/main/Images/Screen%20Shot%202021-04-27%20at%204.31.07%20PM.jpg" alt="alt text" width="700" height="200" >
+<img src="https://github.com/yarahisham/Facebook_Marketplace-Design_Thinking/blob/main/Images/Screen%20Shot%202021-04-27%20at%204.31.07%20PM.jpg" alt="alt text" width="700" height="100" >
 </p>
